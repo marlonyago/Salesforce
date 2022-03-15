@@ -4,7 +4,7 @@ name: DevOpsProcess
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 
 jobs:
